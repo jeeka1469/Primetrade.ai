@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+
+# Test logs and runtime files
+*.log
+*.pid
+*.db
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python egg metadata
+*.egg-info/
+.eggs/
+
+# Environment and config
+config.py
+
+# Compiled C extensions
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyInstaller
+dist/
+build/
+*.spec
+
+# Mac-specific files
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache
+ehthumbs.db
+
+# Pycharm settings
+.idea/
