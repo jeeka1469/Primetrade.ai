@@ -11,3 +11,5 @@ CLI that listens like a good bot and lets you place orders easily
 Logs every move – requests, responses, errors, all that jazz
 Built on Binance Testnet so we don’t cry over real money
 
+Enter this on bashhhh to run
+python cli.py --symbol [BTCUSDT] --side [BUY] --type [MARKET] --quantity [0.001]
